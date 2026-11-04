@@ -4,7 +4,7 @@
 
 ## 실행 및 이미지 변환
 
-1. [v1.0 실행 파일](./미카의_EXIF_지우개_v1.0.exe)을 다운로드해 실행합니다.
+1. [v1.0 실행 파일](https://github.com/umirr/MikaExifController/releases/download/v1.0/MikaExifController_v1.0.exe)을 다운로드해 실행합니다.
 2. **이미지 변환** 탭에 JPG, JPEG, PNG, WebP 또는 TIFF 파일을 끌어다 놓습니다.
 3. 저장 폴더와 출력 형식(원본 유지, JPG, PNG, WebP)을 선택합니다. 파일명을 바꾸려면 사용할 규칙도 선택합니다.
 4. **EXIF 제거 실행**을 누릅니다. 처리 결과는 작업 로그에 표시됩니다.
@@ -38,4 +38,4 @@ B=2
 
 ## 소스코드
 
-[v1.0 소스코드 ZIP](./소스코드_v1.0.zip)에는 Python 소스, 앱 아이콘, PyInstaller 빌드 설정이 들어 있습니다.
+[v1.0 소스코드 ZIP](https://github.com/umirr/MikaExifController/releases/download/v1.0/MikaExifController_Source_v1.0.zip)에는 Python 소스, 앱 아이콘, PyInstaller 빌드 설정이 들어 있습니다.
